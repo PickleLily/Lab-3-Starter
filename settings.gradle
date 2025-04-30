@@ -1,0 +1,2 @@
+include ':build.gradle.kts'
+project(':build.gradle.kts').projectDir = new File(rootDir, 'Part 3/image_classification-starter/android/build.gradle.kts')
